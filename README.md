@@ -40,8 +40,7 @@
 
 ## How to Run
 
-Open MATLAB and run:
-> open('runSimulation.mlx');
+Open MATLAB save all the files and run 'runSimulation.mlx';
 
 
 ---
